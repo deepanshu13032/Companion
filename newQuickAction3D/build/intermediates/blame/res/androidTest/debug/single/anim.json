@@ -24,12 +24,12 @@
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/anim/grow_from_top.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/anim/grow_from_bottomright_to_topleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/anim/grow_from_bottomright_to_topleft.xml"
-    },
-    {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/anim/pump_top.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/anim/pump_top.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/anim/grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/anim/grow_from_bottomright_to_topleft.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/anim/shrink_from_bottom.xml",
