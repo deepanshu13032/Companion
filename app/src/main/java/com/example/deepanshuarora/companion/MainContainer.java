@@ -83,6 +83,7 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
 
     private void setActionBar() {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar.setTitle("");
         setSupportActionBar(toolbar);
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);

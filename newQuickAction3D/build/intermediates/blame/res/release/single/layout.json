@@ -1,50 +1,74 @@
 [
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/layout/popup_horizontal.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/layout/popup_horizontal.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\popup_vertical.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\popup_vertical.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/layout/horiz_separator.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/layout/horiz_separator.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\action_item_horizontal.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\action_item_horizontal.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/layout/main.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/layout/main.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\popup_horizontal.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\popup_horizontal.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\horiz_separator.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\horiz_separator.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\horiz_separator.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\horiz_separator.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\main.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\action_item_vertical.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\action_item_vertical.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\popup_vertical.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\popup_vertical.xml"
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\horiz_separator.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\horiz_separator.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/layout/action_item_horizontal.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/layout/action_item_horizontal.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\action_item_vertical.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\action_item_vertical.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\action_item_horizontal.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\action_item_horizontal.xml"
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/layout/action_item_vertical.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/layout/action_item_vertical.xml"
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\popup_vertical.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\popup_vertical.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\popup_horizontal.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\popup_horizontal.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\popup_horizontal.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\popup_horizontal.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/layout/popup_vertical.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/layout/popup_vertical.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\action_item_vertical.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\action_item_vertical.xml"
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\action_item_horizontal.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\action_item_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\horiz_separator.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\horiz_separator.xml"
+    },
+    {
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\popup_vertical.xml",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\popup_vertical.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\action_item_horizontal.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\action_item_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\popup_horizontal.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\popup_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\layout\\action_item_vertical.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\layout\\action_item_vertical.xml"
     }
 ]

@@ -31,6 +31,13 @@
             android:titleTextColor="@color/white"
             android:gravity="center"
             app:theme="@style/AppTheme">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Companion"
+                android:textSize="25dp"
+                android:layout_gravity="center"
+                android:id="@+id/toolbar_title" />
         </android.support.v7.widget.Toolbar>
 
 
