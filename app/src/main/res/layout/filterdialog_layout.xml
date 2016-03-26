@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="this is the motapa filter"
+        android:text="this is the filter"
         android:textColor="#000000"
         android:textSize="30sp"
         />
