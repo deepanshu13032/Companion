@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/layout/main.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/layout/action_item_vertical.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/layout/action_item_vertical.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/layout/popup_vertical.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/layout/popup_vertical.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/layout/horiz_separator.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/layout/horiz_separator.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/layout/popup_horizontal.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/layout/popup_horizontal.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/layout/action_item_horizontal.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/layout/action_item_horizontal.xml"
+    }
+]

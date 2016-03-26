@@ -141,8 +141,7 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
             return true;
         }
         switch (item.getItemId()) {
-            case R.id.action_settings:
-                return true;
+
             default:
                 return super.onOptionsItemSelected(item);
         }
