@@ -15,6 +15,7 @@ import android.view.animation.AccelerateInterpolator;
 import android.widget.LinearLayout;
 
 import com.example.deepanshuarora.companion.fragments.ContentFragment;
+import com.example.deepanshuarora.companion.fragments.frag_food;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -148,8 +149,8 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
         }
     }
 
-    private ScreenShotable replaceFragment(ScreenShotable screenShotable, int topPosition) {
-        this.res = this.res == R.drawable.content_music ? R.drawable.content_films : R.drawable.content_music;
+    private ScreenShotable replaceFragment(Resourceble slmenuitem,ScreenShotable screenShotable, int topPosition) {
+        //this.res = this.res == R.drawable.content_music ? R.drawable.content_films : R.drawable.content_music;
         View view = findViewById(R.id.content_frame);
         int finalRadius = Math.max(view.getWidth(), view.getHeight());
         SupportAnimator animator = ViewAnimationUtils.createCircularReveal(view, 0, topPosition, 0, finalRadius);
@@ -157,9 +158,19 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
         animator.setDuration(ViewAnimator.CIRCULAR_REVEAL_ANIMATION_DURATION);
         findViewById(R.id.content_overlay).setBackgroundDrawable(new BitmapDrawable(getResources(), screenShotable.getBitmap()));
         animator.start();
-        ContentFragment contentFragment = ContentFragment.newInstance(this.res);
-        getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, contentFragment).commit();
-        return contentFragment;
+        switch (slmenuitem.getName()) {
+            case "Book":
+                frag_food contentFragment = frag_food.newInstance(this.res);
+                getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, contentFragment).commit();
+                return contentFragment;
+
+            default:
+                this.res = this.res == R.drawable.content_music ? R.drawable.content_films : R.drawable.content_music;
+                ContentFragment content_Fragment = ContentFragment.newInstance(this.res);
+                getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, content_Fragment).commit();
+                return content_Fragment;
+        }
+
     }
 
     @Override
@@ -168,7 +179,7 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
             case ContentFragment.CLOSE:
                 return screenShotable;
             default:
-                return replaceFragment(screenShotable, position);
+                return replaceFragment(slideMenuItem,screenShotable, position);
         }
     }
 
