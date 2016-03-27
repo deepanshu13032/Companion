@@ -1,63 +1,59 @@
 [
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomright_to_topleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_bottom.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_bottom.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomright_to_topleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottom.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottom.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/shrink_from_bottomleft_to_topright.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/shrink_from_bottomleft_to_topright.xml"
     },
     {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/grow_from_bottomright_to_topleft.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/grow_from_bottomright_to_topleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\disappear.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\disappear.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\rail.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\rail.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/shrink_from_topleft_to_bottomright.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/shrink_from_topleft_to_bottomright.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topleft_to_bottomright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topright_to_bottomleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_top.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottom.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottom.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topright_to_bottomleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_top.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottom.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomright_to_topleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topleft_to_bottomright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_bottom.xml",
@@ -68,36 +64,56 @@
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/rail.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_top.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\disappear.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottom.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottom.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_top.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/shrink_from_topright_to_bottomleft.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\disappear.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\disappear.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottom.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topright_to_bottomleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\rail.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_top.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/grow_from_bottom.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/grow_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomleft_to_topright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_bottom.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_bottom.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/pump_bottom.xml",
@@ -108,24 +124,16 @@
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/shrink_from_bottomright_to_topleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomleft_to_topright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
-    },
-    {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/shrink_from_bottom.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/shrink_from_bottom.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topleft_to_bottomright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottom.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottom.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_bottom.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_bottom.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topleft_to_bottomright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\disappear.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\disappear.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/grow_from_topleft_to_bottomright.xml",
@@ -136,68 +144,92 @@
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/shrink_from_top.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_top.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_top.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottom.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\rail.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/grow_from_bottomleft_to_topright.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_top.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\disappear.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\disappear.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottom.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topright_to_bottomleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/grow_from_top.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/grow_from_top.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomright_to_topleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_top.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottom.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/disappear.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/disappear.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomright_to_topleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_bottom.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_bottom.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomleft_to_topright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottom.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottom.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_top.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topright_to_bottomleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topright_to_bottomleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomleft_to_topright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_top.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/anim/grow_from_topright_to_bottomleft.xml",
@@ -208,51 +240,19 @@
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/pump_top.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topleft_to_bottomright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\rail.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\rail.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_top.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_top.xml"
     },
     {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\pump_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\pump_top.xml"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\rail.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\rail.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomleft_to_topright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_bottomright_to_topleft.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_top.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_top.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_top.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_top.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\shrink_from_topleft_to_bottomright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\disappear.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\disappear.xml"
-    },
-    {
-        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\anim\\grow_from_bottomleft_to_topright.xml",
-        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
     }
 ]
