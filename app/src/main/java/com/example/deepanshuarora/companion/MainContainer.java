@@ -15,7 +15,7 @@ import android.view.animation.AccelerateInterpolator;
 import android.widget.LinearLayout;
 
 import com.example.deepanshuarora.companion.fragments.ContentFragment;
-import com.example.deepanshuarora.companion.fragments.frag_food;
+import com.example.deepanshuarora.companion.fragments.FragFood;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,6 +33,7 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
     private ActionBarDrawerToggle drawerToggle;
     private List<SlideMenuItem> list = new ArrayList<>();
     private ContentFragment contentFragment;
+    private FragFood fragFood;
     private ViewAnimator viewAnimator;
     private int res = R.drawable.content_music;
     private LinearLayout linearLayout;
@@ -150,7 +151,7 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
     }
 
     private ScreenShotable replaceFragment(Resourceble slmenuitem,ScreenShotable screenShotable, int topPosition) {
-        //this.res = this.res == R.drawable.content_music ? R.drawable.content_films : R.drawable.content_music;
+        this.res = this.res == R.drawable.content_music ? R.drawable.content_films : R.drawable.content_music;
         View view = findViewById(R.id.content_frame);
         int finalRadius = Math.max(view.getWidth(), view.getHeight());
         SupportAnimator animator = ViewAnimationUtils.createCircularReveal(view, 0, topPosition, 0, finalRadius);
@@ -160,12 +161,8 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
         animator.start();
         switch (slmenuitem.getName()) {
             case "Book":
-                frag_food contentFragment = frag_food.newInstance(this.res);
-                getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, contentFragment).commit();
-                return contentFragment;
 
             default:
-                this.res = this.res == R.drawable.content_music ? R.drawable.content_films : R.drawable.content_music;
                 ContentFragment content_Fragment = ContentFragment.newInstance(this.res);
                 getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, content_Fragment).commit();
                 return content_Fragment;

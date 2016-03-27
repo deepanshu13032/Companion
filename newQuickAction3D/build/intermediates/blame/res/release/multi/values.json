@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "outputFile": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 173
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -68,7 +68,7 @@
                     "endOffset": 247
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
@@ -88,7 +88,7 @@
                     "endOffset": 454
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
@@ -109,7 +109,7 @@
                     "endOffset": 694
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
@@ -130,7 +130,7 @@
                     "endOffset": 888
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 1,
@@ -151,7 +151,7 @@
                     "endOffset": 1129
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 1,
@@ -171,7 +171,7 @@
                     "endOffset": 1170
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 1,
@@ -191,7 +191,7 @@
                     "endOffset": 1375
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 1,
@@ -212,7 +212,7 @@
                     "endOffset": 1613
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 1,
@@ -233,7 +233,7 @@
                     "endOffset": 1808
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 1,
@@ -254,7 +254,7 @@
                     "endOffset": 2047
                 },
                 "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 1,
@@ -262,810 +262,6 @@
                         "endLine": 43,
                         "endColumn": 9,
                         "endOffset": 1804
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 68,
-                    "endOffset": 119
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 109,
-                        "endColumn": 68,
-                        "endOffset": 173
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 124,
-                    "endColumn": 53,
-                    "endOffset": 173
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 53,
-                        "endOffset": 104
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 178,
-                    "endColumn": 30,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 1,
-                        "startOffset": 52,
-                        "endColumn": 28,
-                        "endOffset": 79
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 209,
-                    "endColumn": 42,
-                    "endOffset": 247
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 1,
-                        "startOffset": 104,
-                        "endColumn": 40,
-                        "endOffset": 143
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 252,
-                    "endLine": 9,
-                    "endColumn": 9,
-                    "endOffset": 454
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 1,
-                        "startOffset": 147,
-                        "endLine": 10,
-                        "endColumn": 9,
-                        "endOffset": 349
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 459,
-                    "endLine": 13,
-                    "endColumn": 9,
-                    "endOffset": 694
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 1,
-                        "startOffset": 353,
-                        "endLine": 15,
-                        "endColumn": 9,
-                        "endOffset": 588
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 699,
-                    "endLine": 17,
-                    "endColumn": 9,
-                    "endOffset": 888
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 1,
-                        "startOffset": 832,
-                        "endLine": 25,
-                        "endColumn": 9,
-                        "endOffset": 1021
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 893,
-                    "endLine": 21,
-                    "endColumn": 9,
-                    "endOffset": 1129
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 1,
-                        "startOffset": 592,
-                        "endLine": 20,
-                        "endColumn": 9,
-                        "endOffset": 828
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1134,
-                    "endColumn": 40,
-                    "endOffset": 1170
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 1,
-                        "startOffset": 1045,
-                        "endColumn": 38,
-                        "endOffset": 1082
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1175,
-                    "endLine": 26,
-                    "endColumn": 9,
-                    "endOffset": 1375
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 1,
-                        "startOffset": 1086,
-                        "endLine": 33,
-                        "endColumn": 9,
-                        "endOffset": 1286
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1380,
-                    "endLine": 30,
-                    "endColumn": 9,
-                    "endOffset": 1613
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 1,
-                        "startOffset": 1290,
-                        "endLine": 38,
-                        "endColumn": 9,
-                        "endOffset": 1523
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 1618,
-                    "endLine": 34,
-                    "endColumn": 9,
-                    "endOffset": 1808
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 45,
-                        "startColumn": 1,
-                        "startOffset": 1765,
-                        "endLine": 48,
-                        "endColumn": 9,
-                        "endOffset": 1955
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 1813,
-                    "endLine": 38,
-                    "endColumn": 9,
-                    "endOffset": 2047
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 1,
-                        "startOffset": 1527,
-                        "endLine": 43,
-                        "endColumn": 9,
-                        "endOffset": 1761
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 68,
-                    "endOffset": 119
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 112,
-                        "endColumn": 68,
-                        "endOffset": 176
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 124,
-                    "endColumn": 53,
-                    "endOffset": 173
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 53,
-                        "endOffset": 106
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 178,
-                    "endColumn": 30,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 1,
-                        "startOffset": 54,
-                        "endColumn": 28,
-                        "endOffset": 81
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 209,
-                    "endColumn": 42,
-                    "endOffset": 247
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 1,
-                        "startOffset": 109,
-                        "endColumn": 40,
-                        "endOffset": 148
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 252,
-                    "endLine": 9,
-                    "endColumn": 9,
-                    "endOffset": 454
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 1,
-                        "startOffset": 154,
-                        "endLine": 10,
-                        "endColumn": 9,
-                        "endOffset": 359
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 459,
-                    "endLine": 13,
-                    "endColumn": 9,
-                    "endOffset": 694
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 1,
-                        "startOffset": 365,
-                        "endLine": 15,
-                        "endColumn": 9,
-                        "endOffset": 603
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 699,
-                    "endLine": 17,
-                    "endColumn": 9,
-                    "endOffset": 888
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 1,
-                        "startOffset": 854,
-                        "endLine": 25,
-                        "endColumn": 9,
-                        "endOffset": 1046
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 893,
-                    "endLine": 21,
-                    "endColumn": 9,
-                    "endOffset": 1129
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 1,
-                        "startOffset": 609,
-                        "endLine": 20,
-                        "endColumn": 9,
-                        "endOffset": 848
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1134,
-                    "endColumn": 40,
-                    "endOffset": 1170
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 1,
-                        "startOffset": 1073,
-                        "endColumn": 38,
-                        "endOffset": 1110
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1175,
-                    "endLine": 26,
-                    "endColumn": 9,
-                    "endOffset": 1375
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 1,
-                        "startOffset": 1116,
-                        "endLine": 33,
-                        "endColumn": 9,
-                        "endOffset": 1319
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1380,
-                    "endLine": 30,
-                    "endColumn": 9,
-                    "endOffset": 1613
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 1,
-                        "startOffset": 1325,
-                        "endLine": 38,
-                        "endColumn": 9,
-                        "endOffset": 1561
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 1618,
-                    "endLine": 34,
-                    "endColumn": 9,
-                    "endOffset": 1808
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 45,
-                        "startColumn": 1,
-                        "startOffset": 1810,
-                        "endLine": 48,
-                        "endColumn": 9,
-                        "endOffset": 2003
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 1813,
-                    "endLine": 38,
-                    "endColumn": 9,
-                    "endOffset": 2047
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 1,
-                        "startOffset": 1567,
-                        "endLine": 43,
-                        "endColumn": 9,
-                        "endOffset": 1804
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 68,
-                    "endOffset": 119
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 109,
-                        "endColumn": 68,
-                        "endOffset": 173
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 124,
-                    "endColumn": 53,
-                    "endOffset": 173
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 53,
-                        "endOffset": 104
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 178,
-                    "endColumn": 30,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 1,
-                        "startOffset": 52,
-                        "endColumn": 28,
-                        "endOffset": 79
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 209,
-                    "endColumn": 42,
-                    "endOffset": 247
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 1,
-                        "startOffset": 104,
-                        "endColumn": 40,
-                        "endOffset": 143
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 252,
-                    "endLine": 9,
-                    "endColumn": 9,
-                    "endOffset": 454
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 1,
-                        "startOffset": 147,
-                        "endLine": 10,
-                        "endColumn": 9,
-                        "endOffset": 349
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 459,
-                    "endLine": 13,
-                    "endColumn": 9,
-                    "endOffset": 694
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 1,
-                        "startOffset": 353,
-                        "endLine": 15,
-                        "endColumn": 9,
-                        "endOffset": 588
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 699,
-                    "endLine": 17,
-                    "endColumn": 9,
-                    "endOffset": 888
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 1,
-                        "startOffset": 832,
-                        "endLine": 25,
-                        "endColumn": 9,
-                        "endOffset": 1021
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 893,
-                    "endLine": 21,
-                    "endColumn": 9,
-                    "endOffset": 1129
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 1,
-                        "startOffset": 592,
-                        "endLine": 20,
-                        "endColumn": 9,
-                        "endOffset": 828
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1134,
-                    "endColumn": 40,
-                    "endOffset": 1170
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 1,
-                        "startOffset": 1045,
-                        "endColumn": 38,
-                        "endOffset": 1082
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1175,
-                    "endLine": 26,
-                    "endColumn": 9,
-                    "endOffset": 1375
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 1,
-                        "startOffset": 1086,
-                        "endLine": 33,
-                        "endColumn": 9,
-                        "endOffset": 1286
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1380,
-                    "endLine": 30,
-                    "endColumn": 9,
-                    "endOffset": 1613
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 1,
-                        "startOffset": 1290,
-                        "endLine": 38,
-                        "endColumn": 9,
-                        "endOffset": 1523
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 1618,
-                    "endLine": 34,
-                    "endColumn": 9,
-                    "endOffset": 1808
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 45,
-                        "startColumn": 1,
-                        "startOffset": 1765,
-                        "endLine": 48,
-                        "endColumn": 9,
-                        "endOffset": 1955
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 1813,
-                    "endLine": 38,
-                    "endColumn": 9,
-                    "endOffset": 2047
-                },
-                "from": {
-                    "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 1,
-                        "startOffset": 1527,
-                        "endLine": 43,
-                        "endColumn": 9,
-                        "endOffset": 1761
                     }
                 }
             }

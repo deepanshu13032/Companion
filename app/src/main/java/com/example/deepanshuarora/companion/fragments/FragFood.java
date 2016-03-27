@@ -20,10 +20,9 @@ public class FragFood extends Fragment implements ScreenShotable {
     protected int res;
     private Bitmap bitmap;
 
-    public static FragFood newInstance(int resId) {
+    public static FragFood newInstance() {
         FragFood fragFood = new FragFood();
         Bundle bundle = new Bundle();
-        bundle.putInt(Integer.class.getName(), resId);
         fragFood.setArguments(bundle);
         return fragFood;
     }
@@ -32,7 +31,7 @@ public class FragFood extends Fragment implements ScreenShotable {
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        this.containerView = view.findViewById(R.id.container);
+        this.containerView = view.findViewById(R.id.container2);
     }
 
     @Override
@@ -62,7 +61,6 @@ public class FragFood extends Fragment implements ScreenShotable {
         };
 
         thread.start();
-
     }
 
     @Override
