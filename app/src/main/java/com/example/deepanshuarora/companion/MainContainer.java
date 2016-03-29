@@ -15,7 +15,6 @@ import android.view.animation.AccelerateInterpolator;
 import android.widget.LinearLayout;
 
 import com.example.deepanshuarora.companion.fragments.ContentFragment;
-import com.example.deepanshuarora.companion.fragments.FragFood;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,7 +32,6 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
     private ActionBarDrawerToggle drawerToggle;
     private List<SlideMenuItem> list = new ArrayList<>();
     private ContentFragment contentFragment;
-    private FragFood fragFood;
     private ViewAnimator viewAnimator;
     private int res = R.drawable.content_music;
     private LinearLayout linearLayout;

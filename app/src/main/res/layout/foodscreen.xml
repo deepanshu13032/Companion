@@ -4,19 +4,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <FrameLayout
+    <RelativeLayout
         android:id="@+id/container2"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-       <TextView
-           android:layout_width="match_parent"
-           android:layout_height="match_parent"
-           android:text="shcf\n\ncdhhgfghcf"
-           android:textColor="#000"
-           android:textSize="55dp"
-           android:background="#fff"
-           />
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:id="@+id/recycler_view"
+            android:layout_height="match_parent">
 
-    </FrameLayout>
+        </android.support.v7.widget.RecyclerView>
+
+    </RelativeLayout>
 </io.codetail.widget.RevealFrameLayout>
