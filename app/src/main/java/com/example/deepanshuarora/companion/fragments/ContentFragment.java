@@ -22,13 +22,14 @@ public class ContentFragment extends Fragment implements ScreenShotable {
     public static final String SHOP = "Shop";
     public static final String PARTY = "Party";
     public static final String MOVIE = "Movie";
-
-    private View containerView;
+    private static int xmlswitcher;
+    private View containerView,cv2;
     protected ImageView mImageView;
     protected int res;
     private Bitmap bitmap;
 
-    public static ContentFragment newInstance(int resId) {
+    public static ContentFragment newInstance(int resId,int type) {
+        xmlswitcher = type;
         ContentFragment contentFragment = new ContentFragment();
         Bundle bundle = new Bundle();
         bundle.putInt(Integer.class.getName(), resId);
@@ -40,7 +41,12 @@ public class ContentFragment extends Fragment implements ScreenShotable {
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        this.containerView = view.findViewById(R.id.container);
+        if (xmlswitcher == 2){
+        this.containerView = view.findViewById(R.id.container2);
+        }
+        else {
+            this.containerView = view.findViewById(R.id.container);
+        }
     }
 
     @Override
@@ -52,12 +58,20 @@ public class ContentFragment extends Fragment implements ScreenShotable {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_check_one, container, false);
-        mImageView = (ImageView) rootView.findViewById(R.id.image_content);
-        mImageView.setClickable(true);
-        mImageView.setFocusable(true);
-        mImageView.setImageResource(res);
+        View rootView;
+        if(xmlswitcher == 2){
+            rootView = inflater.inflate(R.layout.foodscreen, container, false);
+        }
+        else {
+            rootView = inflater.inflate(R.layout.fragment_check_one, container, false);
+            mImageView = (ImageView) rootView.findViewById(R.id.image_content);
+            mImageView.setClickable(true);
+            mImageView.setFocusable(true);
+            mImageView.setImageResource(res);
+        }
         return rootView;
+
+
     }
 
     @Override
