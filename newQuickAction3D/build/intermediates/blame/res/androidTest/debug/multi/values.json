@@ -1,0 +1,270 @@
+[
+    {
+        "outputFile": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 53,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 53,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 30,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 30,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 42,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 42,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endLine": 9,
+                    "endColumn": 9,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 13,
+                    "endColumn": 9,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endLine": 13,
+                        "endColumn": 9,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endLine": 17,
+                    "endColumn": 9,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endLine": 17,
+                        "endColumn": 9,
+                        "endOffset": 888
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endLine": 21,
+                    "endColumn": 9,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 893,
+                        "endLine": 21,
+                        "endColumn": 9,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 40,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 40,
+                        "endOffset": 1170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endLine": 26,
+                    "endColumn": 9,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1175,
+                        "endLine": 26,
+                        "endColumn": 9,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endLine": 30,
+                    "endColumn": 9,
+                    "endOffset": 1613
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endLine": 30,
+                        "endColumn": 9,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1618,
+                    "endLine": 34,
+                    "endColumn": 9,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endLine": 34,
+                        "endColumn": 9,
+                        "endOffset": 1808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endLine": 38,
+                    "endColumn": 9,
+                    "endOffset": 2047
+                },
+                "from": {
+                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1813,
+                        "endLine": 38,
+                        "endColumn": 9,
+                        "endOffset": 2047
+                    }
+                }
+            }
+        ]
+    }
+]

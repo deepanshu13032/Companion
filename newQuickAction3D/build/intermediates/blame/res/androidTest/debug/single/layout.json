@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\action_item_horizontal.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\layout\\action_item_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\horiz_separator.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\layout\\horiz_separator.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\main.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popup_vertical.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\layout\\popup_vertical.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popup_horizontal.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\layout\\popup_horizontal.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\action_item_vertical.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\layout\\action_item_vertical.xml"
+    }
+]
