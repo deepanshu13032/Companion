@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
         "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable-ldpi\\icon.png"
+=======
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable-ldpi/icon.png"
+>>>>>>> ea33de478ddb330fb8ce1952e976dcdd76e8b276
     }
 ]

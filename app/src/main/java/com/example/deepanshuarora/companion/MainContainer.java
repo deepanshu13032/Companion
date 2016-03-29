@@ -43,7 +43,7 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_container);
-        contentFragment = ContentFragment.newInstance(R.drawable.content_music);
+        contentFragment = ContentFragment.newInstance(R.drawable.content_music,0);
         getSupportFragmentManager().beginTransaction()
                 .replace(R.id.content_frame, contentFragment)
                 .commit();
@@ -159,11 +159,14 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
         animator.setDuration(ViewAnimator.CIRCULAR_REVEAL_ANIMATION_DURATION);
         findViewById(R.id.content_overlay).setBackgroundDrawable(new BitmapDrawable(getResources(), screenShotable.getBitmap()));
         animator.start();
-        switch (slmenuitem.getName()) {
-            case "Book":
-
+        ContentFragment content_Fragment;
+        switch (slmenuitem.getName()){
+            case ContentFragment.BOOK:
+                content_Fragment = ContentFragment.newInstance(this.res, 2);
+                getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, content_Fragment).commit();
+                return content_Fragment;
             default:
-                ContentFragment content_Fragment = ContentFragment.newInstance(this.res);
+                content_Fragment = ContentFragment.newInstance(this.res,0);
                 getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, content_Fragment).commit();
                 return content_Fragment;
         }
@@ -190,6 +193,8 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
     public void enableHomeButton() {
         getSupportActionBar().setHomeButtonEnabled(true);
         drawerLayout.closeDrawers();
+        //getSupportActionBar().setHomeButtonEnabled(false);
+
 
     }
 
