@@ -47,6 +47,13 @@
         </android.support.v7.widget.Toolbar>
 
 
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@android:drawable/ic_menu_upload" />
     </io.codetail.widget.RevealFrameLayout>
 
 
@@ -67,6 +74,5 @@
             android:background="@android:color/transparent">
         </LinearLayout>
     </ScrollView>
-
 
 </android.support.v4.widget.DrawerLayout>
