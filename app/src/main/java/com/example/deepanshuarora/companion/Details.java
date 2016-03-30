@@ -3,6 +3,7 @@ package com.example.deepanshuarora.companion;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.TextView;
 
 import com.daimajia.slider.library.Animations.DescriptionAnimation;
@@ -10,6 +11,8 @@ import com.daimajia.slider.library.SliderLayout;
 import com.daimajia.slider.library.SliderTypes.BaseSliderView;
 import com.daimajia.slider.library.SliderTypes.TextSliderView;
 import com.daimajia.slider.library.Tricks.ViewPagerEx;
+import com.facebook.drawee.view.SimpleDraweeView;
+import com.google.android.gms.maps.model.LatLng;
 
 import java.util.HashMap;
 
@@ -19,6 +22,9 @@ public class Details extends AppCompatActivity implements BaseSliderView.OnSlide
     private TextView name,description;
     private String str_name,str_desc;
     private HashMap<String,String> url_maps;
+    private double def = 12.343242;
+    private double lat,lng;
+    SimpleDraweeView mapview;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,6 +35,19 @@ public class Details extends AppCompatActivity implements BaseSliderView.OnSlide
         Intent rec = this.getIntent();
         str_name = rec.getStringExtra("name");
         str_desc = rec.getStringExtra("desc");
+        lat = rec.getDoubleExtra("latitude", def);
+        lng = rec.getDoubleExtra("longitude",def);
+        mapview = (SimpleDraweeView) findViewById(R.id.preview);
+        mapview.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent z = new Intent(v.getContext(), MapsActivity.class);
+                z.putExtra("name",str_name);
+                z.putExtra("lati",lat);
+                z.putExtra("long",lng);
+                v.getContext().startActivity(z);
+            }
+        });
 
         name.setText(str_name);
         description.setText(str_desc);

@@ -11,6 +11,23 @@ import java.util.HashMap;
 public class Food {
     String imgurl;
     String name;
+    double x,y;
+
+    public double getX() {
+        return x;
+    }
+
+    public void setX(double x) {
+        this.x = x;
+    }
+
+    public double getY() {
+        return y;
+    }
+
+    public void setY(double y) {
+        this.y = y;
+    }
 
     public HashMap<String, String> getSub_image() {
         return sub_image;
@@ -29,7 +46,8 @@ public class Food {
         this.imgurl = imgurl;
         this.name = name;
         this.desc=desc;
-        this.origin= new LatLng(a,b);
+        this.x= a;
+        this.y = b;
         this.sub_image.put("1", sub_url1);
         this.sub_image.put("2", sub_url2);
     }
@@ -38,7 +56,8 @@ public class Food {
         this.imgurl = imgurl;
         this.name = name;
         this.desc=desc;
-        this.origin= new LatLng(a,b);
+        this.x= a;
+        this.y = b;
         this.sub_image.put("1", sub_url1);
         //this.sub_image.put("2", sub_url2);
     }
