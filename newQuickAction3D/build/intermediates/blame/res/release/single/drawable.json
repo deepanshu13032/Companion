@@ -4,14 +4,24 @@
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable/menu_info.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/drawable/arrow_up.png",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable/arrow_up.png"
     },
     {
+=======
+>>>>>>> karandev
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/drawable/menu_cancel.png",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable/menu_cancel.png"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/drawable/arrow_up.png",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable/arrow_up.png"
+    },
+    {
+>>>>>>> karandev
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/drawable/menu_up_arrow.png",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable/menu_up_arrow.png"
     },
