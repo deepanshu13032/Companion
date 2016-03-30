@@ -16,12 +16,12 @@
         "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\rail.xml"
     },
     {
-        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
-        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
-    },
-    {
         "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
         "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
     },
     {
         "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",

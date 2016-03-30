@@ -9,19 +9,20 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.deepanshuarora.companion.models.LoadFoodData;
+import com.example.deepanshuarora.companion.models.LoadParkData;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 /**
  * Created by karan barsiwal on 29-03-2016.
  */
-public class FoodAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
+public class ParkAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     private LayoutInflater inflater;
     //private List<String> cuisines;
     //private Context context;
-    LoadFoodData loadFoodData =new LoadFoodData();
+    LoadParkData loadData =new LoadParkData();
 
 
-    public FoodAdapter( Context context) {
+    public ParkAdapter( Context context) {
 
         inflater = LayoutInflater.from(context);
     }
@@ -38,14 +39,14 @@ public class FoodAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
 
-        ((MyViewHolder)holder).image.setImageURI(Uri.parse(loadFoodData.data.get(position).getImgurl()));
-        ((MyViewHolder)holder).name.setText(loadFoodData.data.get(position).getName());
+        ((MyViewHolder)holder).image.setImageURI(Uri.parse(loadData.data.get(position).getImgurl()));
+        ((MyViewHolder)holder).name.setText(loadData.data.get(position).getName());
 
     }
 
     @Override
     public int getItemCount() {
-        return loadFoodData.data.size();
+        return loadData.data.size();
     }
 
 

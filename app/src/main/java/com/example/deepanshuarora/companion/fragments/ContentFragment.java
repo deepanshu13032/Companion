@@ -13,6 +13,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.example.deepanshuarora.companion.FoodAdapter;
+import com.example.deepanshuarora.companion.ParkAdapter;
 import com.example.deepanshuarora.companion.R;
 
 import java.util.ArrayList;
@@ -23,13 +24,10 @@ import yalantis.com.sidemenu.interfaces.ScreenShotable;
 
 public class ContentFragment extends Fragment implements ScreenShotable {
     public static final String CLOSE = "Close";
-    public static final String BUILDING = "Building";
-    public static final String BOOK = "Book";
-    public static final String PAINT = "Paint";
-    public static final String CASE = "Case";
-    public static final String SHOP = "Shop";
-    public static final String PARTY = "Party";
-    public static final String MOVIE = "Movie";
+    public static final String FOOD = "Food";
+    public static final String PARK = "Park";
+
+
     private static int xmlswitcher;
     private View containerView, cv2;
     protected ImageView mImageView;
@@ -39,11 +37,10 @@ public class ContentFragment extends Fragment implements ScreenShotable {
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager mLayoutmanager;
 
-    public static ContentFragment newInstance(int resId, int type) {
+    public static ContentFragment newInstance( int type) {
         xmlswitcher = type;
         ContentFragment contentFragment = new ContentFragment();
         Bundle bundle = new Bundle();
-        bundle.putInt(Integer.class.getName(), resId);
         contentFragment.setArguments(bundle);
         return contentFragment;
     }
@@ -52,7 +49,7 @@ public class ContentFragment extends Fragment implements ScreenShotable {
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        if (xmlswitcher == 2) {
+        if (xmlswitcher == 1 || xmlswitcher == 2) {
             this.containerView = view.findViewById(R.id.container2);
         } else {
             this.containerView = view.findViewById(R.id.container);
@@ -69,14 +66,18 @@ public class ContentFragment extends Fragment implements ScreenShotable {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView;
-        List<String> available_cuisines;
-        if (xmlswitcher == 2) {
+
+        if (xmlswitcher == 1 || xmlswitcher == 2) {
             rootView = inflater.inflate(R.layout.foodscreen, container, false);
             mrecyclerView = (RecyclerView) rootView.findViewById(R.id.recycler_view);
             mLayoutmanager = new LinearLayoutManager(getActivity());
             mrecyclerView.setLayoutManager(mLayoutmanager);
-            available_cuisines = new ArrayList<>(Arrays.asList("Chinese", "Continental", "North Indian", "South Indian", "Korean","","","","","","","","","",""));
-            mAdapter = new FoodAdapter(available_cuisines,getActivity());
+
+            if (xmlswitcher == 1) {
+                mAdapter = new FoodAdapter(this.getContext());
+            } else {
+                mAdapter = new ParkAdapter(this.getContext());
+            }
             mrecyclerView.setAdapter(mAdapter);
 
         } else {
