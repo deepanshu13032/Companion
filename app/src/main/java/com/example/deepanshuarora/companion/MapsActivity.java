@@ -184,14 +184,14 @@ public class MapsActivity extends ActionBarActivity implements OnMapReadyCallbac
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
-<<<<<<< HEAD
+
         mMap.addMarker(new MarkerOptions().position(origin).title("Marker at origin"));
 
         mMap.moveCamera(CameraUpdateFactory.newLatLng(origin));
-=======
+
         mMap.addMarker(new MarkerOptions().position(destination).title(Destination_name));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(destination));
->>>>>>> karandev
+
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(origin, 13));
         if(ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)!= PackageManager.PERMISSION_GRANTED&&ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION)!=  PackageManager.PERMISSION_GRANTED)
         {
