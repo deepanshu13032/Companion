@@ -1,6 +1,7 @@
 package com.example.deepanshuarora.companion;
 
 import android.content.Context;
+import android.content.Intent;
 import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -58,6 +59,13 @@ public class ParkAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
             super(v);
             name=(TextView) v.findViewById(R.id.place_name);
             image =(SimpleDraweeView) v.findViewById(R.id.my_image_view);
+            image.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent i = new Intent(v.getContext(), Details.class);
+                    v.getContext().startActivity(i);
+                }
+            });
         }
     }
 }
