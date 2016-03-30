@@ -63,6 +63,13 @@ public class ParkAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
                 @Override
                 public void onClick(View v) {
                     Intent i = new Intent(v.getContext(), Details.class);
+                    i.putExtra("name",loadData.data.get(getAdapterPosition()).getName());
+                    //i.putExtra("desc",loadData.data.get(getAdapterPosition()).getDesc());
+                    i.putExtra("latitude",loadData.data.get(getAdapterPosition()).getX());
+                    i.putExtra("longitude",loadData.data.get(getAdapterPosition()).getY());
+                    i.putExtra("hashmapimages",loadData.data.get(getAdapterPosition()).getSub_image());
+                    i.putExtra("coverimage",loadData.data.get(getAdapterPosition()).getImgurl());
+                    i.putExtra("control",0);
                     v.getContext().startActivity(i);
                 }
             });

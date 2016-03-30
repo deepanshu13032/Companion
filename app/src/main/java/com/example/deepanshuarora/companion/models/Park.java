@@ -10,17 +10,17 @@ import java.util.HashMap;
 public class Park {
     String imgurl;
     String name;
-    Double x;
+    double x;
 
-    public Double getY() {
+    public double getY() {
         return y;
     }
 
-    public Double getX() {
+    public double getX() {
         return x;
     }
 
-    Double y;
+    double y;
     public HashMap<String, String> getSub_image() {
         return sub_image;
     }
@@ -32,7 +32,7 @@ public class Park {
     }
 
     private LatLng origin;
-    public Park(String imgurl, String name,Double a,Double b,String sub_url1){
+    public Park(String imgurl, String name,double a,double b,String sub_url1){
         this.sub_image=new HashMap<String, String>();
         this.imgurl = imgurl;
         this.name = name;

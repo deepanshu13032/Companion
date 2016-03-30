@@ -69,6 +69,7 @@ public class FoodAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
                     i.putExtra("longitude",loadFoodData.data.get(getAdapterPosition()).getY());
                     i.putExtra("hashmapimages",loadFoodData.data.get(getAdapterPosition()).getSub_image());
                     i.putExtra("coverimage",loadFoodData.data.get(getAdapterPosition()).getImgurl());
+                    i.putExtra("control",1);
                     v.getContext().startActivity(i);
                 }
             });

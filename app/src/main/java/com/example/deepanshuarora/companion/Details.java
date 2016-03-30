@@ -19,22 +19,31 @@ import java.util.HashMap;
 public class Details extends AppCompatActivity implements BaseSliderView.OnSliderClickListener, ViewPagerEx.OnPageChangeListener {
     private SliderLayout mDemoSlider;
 
-    private TextView name,description;
+    private TextView name,description,desctv;
     private String str_name,str_desc;
     private HashMap<String,String> url_maps;
     private double def = 12.343242;
     private double lat,lng;
+    private  int con ;
     SimpleDraweeView mapview;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
-
-        name = (TextView) findViewById(R.id.name);
         description = (TextView) findViewById(R.id.desc);
+        desctv = (TextView) findViewById(R.id.textView2);
+        name = (TextView) findViewById(R.id.name);
         Intent rec = this.getIntent();
         str_name = rec.getStringExtra("name");
-        str_desc = rec.getStringExtra("desc");
+        con = rec.getIntExtra("control", 0);
+        if(con == 1){
+            str_desc = rec.getStringExtra("desc");
+            description.setText(str_desc);
+        }
+        else{
+            desctv.setVisibility(View.GONE);
+            description.setVisibility(View.GONE);
+        }
         lat = rec.getDoubleExtra("latitude", def);
         lng = rec.getDoubleExtra("longitude",def);
         mapview = (SimpleDraweeView) findViewById(R.id.preview);
@@ -42,15 +51,15 @@ public class Details extends AppCompatActivity implements BaseSliderView.OnSlide
             @Override
             public void onClick(View v) {
                 Intent z = new Intent(v.getContext(), MapsActivity.class);
-                z.putExtra("name",str_name);
-                z.putExtra("lati",lat);
-                z.putExtra("long",lng);
+                z.putExtra("name", str_name);
+                z.putExtra("lati", lat);
+                z.putExtra("long", lng);
                 v.getContext().startActivity(z);
             }
         });
 
         name.setText(str_name);
-        description.setText(str_desc);
+
 
         mDemoSlider = (SliderLayout)findViewById(R.id.slider);
 
