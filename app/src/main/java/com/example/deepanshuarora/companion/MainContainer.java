@@ -41,7 +41,7 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_container);
-        contentFragment = ContentFragment.newInstance(R.drawable.content_music,0);
+        contentFragment = ContentFragment.newInstance(1);
         getSupportFragmentManager().beginTransaction()
                 .replace(R.id.content_frame, contentFragment)
                 .commit();
@@ -64,9 +64,9 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
     private void createMenuList() {
         SlideMenuItem menuItem0 = new SlideMenuItem(ContentFragment.CLOSE, R.drawable.icn_close);
         list.add(menuItem0);
-        SlideMenuItem menuItem = new SlideMenuItem(ContentFragment.BUILDING, R.drawable.food);
+        SlideMenuItem menuItem = new SlideMenuItem(ContentFragment.FOOD, R.drawable.food);
         list.add(menuItem);
-        SlideMenuItem menuItem2 = new SlideMenuItem(ContentFragment.BOOK, R.drawable.nature);
+        SlideMenuItem menuItem2 = new SlideMenuItem(ContentFragment.PARK, R.drawable.nature);
         list.add(menuItem2);
        /* SlideMenuItem menuItem3 = new SlideMenuItem(ContentFragment.PAINT, R.drawable.icn_3);
         list.add(menuItem3);
@@ -159,12 +159,13 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
         animator.start();
         ContentFragment content_Fragment;
         switch (slmenuitem.getName()){
-            case ContentFragment.BOOK:
-                content_Fragment = ContentFragment.newInstance(this.res, 2);
+
+            case ContentFragment.PARK:
+                content_Fragment = ContentFragment.newInstance(2);
                 getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, content_Fragment).commit();
                 return content_Fragment;
             default:
-                content_Fragment = ContentFragment.newInstance(this.res,0);
+                content_Fragment = ContentFragment.newInstance(1);
                 getSupportFragmentManager().beginTransaction().replace(R.id.content_frame, content_Fragment).commit();
                 return content_Fragment;
         }
