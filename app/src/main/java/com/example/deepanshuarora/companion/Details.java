@@ -28,15 +28,11 @@ public class Details extends AppCompatActivity implements BaseSliderView.OnSlide
             TextSliderView textSliderView = new TextSliderView(this);
             // initialize a SliderLayout
             textSliderView
-                    .description(name)
                     .image(url_maps.get(name))
-                    .setScaleType(BaseSliderView.ScaleType.Fit)
-                    .setOnSliderClickListener(this);
+                    .setScaleType(BaseSliderView.ScaleType.Fit);
 
             //add your extra information
-            textSliderView.bundle(new Bundle());
-            textSliderView.getBundle()
-                    .putString("extra",name);
+
 
             mDemoSlider.addSlider(textSliderView);
         }
@@ -45,6 +41,7 @@ public class Details extends AppCompatActivity implements BaseSliderView.OnSlide
         mDemoSlider.setCustomAnimation(new DescriptionAnimation());
         mDemoSlider.setDuration(4000);
         mDemoSlider.addOnPageChangeListener(this);
+        mDemoSlider.setPresetTransformer("Default");
     }
 
     @Override
