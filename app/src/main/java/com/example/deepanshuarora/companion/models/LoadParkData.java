@@ -11,10 +11,10 @@ public class LoadParkData {
     // List<String> available_cuisines = new ArrayList<>(Arrays.asList("Chinese", "Continental", "North Indian", "South Indian", "Korean","","","","","","","","","",""));
     public LoadParkData(){
         data = new ArrayList<Park>();
-        data.add(new Park("http://i.imgur.com/RIJhcDQ.jpg","Kalkaji District Park"));
-        data.add(new Park("http://i.imgur.com/YElpicS.png","Astha Kunj Park"));
-        data.add(new Park("http://i.imgur.com/zLL8yBq.png","Shyam nagar park"));
-        data.add(new Park("http://i.imgur.com/3jfNuu6.png","Kailash hills main park"));
+        data.add( new Park( "http://i.imgur.com/RIJhcDQ.jpg", "Kalkaji district park", 28.556694, 77.262785, "http://i.imgur.com/VQLxDIR.jpg"));
+        data.add( new Park( "http://i.imgur.com/YElpicS.png", "Astha kunj park", 28.553016, 77.254187, "http://i.imgur.com/9JP2xZt.jpg"));
+        data.add( new Park( "http://i.imgur.com/YElpicS.png", "Astha kunj park", 28.553016, 77.254187, "http://i.imgur.com/9JP2xZt.jpg"));
+        data.add( new Park( "http://i.imgur.com/3jfNuu6.png", "Kailash hills main park", 28.556908, 77.257697, "http://i.imgur.com/irNp0wU.jpg"));
 
     }
 }
