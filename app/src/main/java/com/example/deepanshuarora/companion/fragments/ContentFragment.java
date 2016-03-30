@@ -15,6 +15,10 @@ import android.widget.ImageView;
 import com.example.deepanshuarora.companion.FoodAdapter;
 import com.example.deepanshuarora.companion.R;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 import yalantis.com.sidemenu.interfaces.ScreenShotable;
 
 public class ContentFragment extends Fragment implements ScreenShotable {
@@ -31,7 +35,7 @@ public class ContentFragment extends Fragment implements ScreenShotable {
     protected ImageView mImageView;
     protected int res;
     private Bitmap bitmap;
-    private RecyclerView recyclerView;
+    private RecyclerView mrecyclerView;
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager mLayoutmanager;
 
@@ -65,13 +69,16 @@ public class ContentFragment extends Fragment implements ScreenShotable {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView;
+        List<String> available_cuisines;
         if (xmlswitcher == 2) {
             rootView = inflater.inflate(R.layout.foodscreen, container, false);
-            recyclerView = (RecyclerView) rootView.findViewById(R.id.recycler_view);
+            mrecyclerView = (RecyclerView) rootView.findViewById(R.id.recycler_view);
             mLayoutmanager = new LinearLayoutManager(getActivity());
-            recyclerView.setLayoutManager(mLayoutmanager);
-            mAdapter = new FoodAdapter(this.getContext());
-            recyclerView.setAdapter(mAdapter);
+            mrecyclerView.setLayoutManager(mLayoutmanager);
+            available_cuisines = new ArrayList<>(Arrays.asList("Chinese", "Continental", "North Indian", "South Indian", "Korean","","","","","","","","","",""));
+            mAdapter = new FoodAdapter(available_cuisines,getActivity());
+            mrecyclerView.setAdapter(mAdapter);
+
         } else {
             rootView = inflater.inflate(R.layout.fragment_check_one, container, false);
             mImageView = (ImageView) rootView.findViewById(R.id.image_content);
