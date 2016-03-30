@@ -254,11 +254,7 @@
                     "endOffset": 2047
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/values/values.xml",
-=======
-                    "file": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
->>>>>>> karandev
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
