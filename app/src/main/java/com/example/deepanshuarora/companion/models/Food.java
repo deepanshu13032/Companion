@@ -24,7 +24,7 @@ public class Food {
     }
 
     private LatLng origin;
-    public Food(String imgurl, String name,String desc,Float a,Float b,String sub_url1,String sub_url2){
+    public Food(String imgurl, String name,String desc,Double a,Double b,String sub_url1,String sub_url2){
         this.sub_image=new HashMap<String, String>();
         this.imgurl = imgurl;
         this.name = name;
