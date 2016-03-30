@@ -14,7 +14,7 @@
         android:id="@+id/my_image_view"
         android:layout_width="match_parent"
         android:layout_height="130dp"
-        fresco:retryImageScaleType="centerCrop"
+        fresco:retryImageScaleType="fitXY"
         fresco:placeholderImage="@drawable/park1"
         />
     <TextView

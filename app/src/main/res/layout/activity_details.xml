@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.deepanshuarora.companion.Details">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center_horizontal"
+        android:text="Out too the been"
+        android:textColor="@color/text"
+        android:textSize="35dp"
+        android:layout_alignParentEnd="true"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp" />
+    <android.support.v7.widget.CardView
+        android:id="@+id/photoview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/name">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@+id/name"
+                android:gravity="left"
+                android:text="Photos"
+                android:textColor="@color/text"
+                android:textSize="20dp"
+                android:paddingLeft="15dp" />
+            <com.daimajia.slider.library.SliderLayout
+                android:id="@+id/slider"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2.5dp"
+        android:layout_marginTop="5dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/photoview">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@+id/name"
+                android:gravity="left"
+                android:text="Description"
+                android:textColor="@color/text"
+                android:textSize="20dp"
+                android:paddingLeft="15dp" />
+
+            <TextView
+                android:id="@+id/desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@+id/name"
+                android:gravity="left"
+                android:text="@string/desc_temp"
+                android:textColor="@color/text"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/mapview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@+id/name"
+                android:gravity="left"
+                android:text="Navigation"
+                android:textColor="@color/text"
+                android:textSize="20dp"
+                android:paddingLeft="15dp" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
