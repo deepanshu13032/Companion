@@ -63,6 +63,11 @@ public class FoodAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
                 @Override
                 public void onClick(View v) {
                     Intent i = new Intent(v.getContext(), Details.class);
+                    i.putExtra("name",loadFoodData.data.get(getAdapterPosition()).getName());
+                    i.putExtra("desc",loadFoodData.data.get(getAdapterPosition()).getDesc());
+                    i.putExtra("corrdinates",loadFoodData.data.get(getAdapterPosition()).getOrigin());
+                    i.putExtra("hashmapimages",loadFoodData.data.get(getAdapterPosition()).getSub_image());
+                    i.putExtra("coverimage",loadFoodData.data.get(getAdapterPosition()).getImgurl());
                     v.getContext().startActivity(i);
                 }
             });
