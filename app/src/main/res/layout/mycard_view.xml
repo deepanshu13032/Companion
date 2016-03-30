@@ -18,7 +18,6 @@
         fresco:actualImageScaleType="fitXY"
         fresco:placeholderImageScaleType="fitXY"
         fresco:placeholderImage="@drawable/placeholder_park"
-
         />
     <TextView
         android:id="@+id/place_name"

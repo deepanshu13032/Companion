@@ -5,6 +5,7 @@ import android.Manifest;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -51,8 +52,8 @@ public class MapsActivity extends ActionBarActivity implements OnMapReadyCallbac
 
     //Google Map Variables
     private String serverKey = "AIzaSyDaop96PQJGwmGPeZFbqlXg_iVLdBSHu7w";
-    private LatLng origin = new LatLng(28.683954, 77.128793);
-    private LatLng destination = new LatLng(28.688622,77.161663);
+    private LatLng origin = new LatLng(28.547291, 77.273190);
+    private LatLng destination;
     private GoogleMap mMap;
 
 
@@ -70,12 +71,19 @@ public class MapsActivity extends ActionBarActivity implements OnMapReadyCallbac
     private static final int ID_INFO   = 4;
     private static final int ID_ERASE  = 5;
     private static final int ID_OK     = 6;
+    private double lt,lg;
+    private double def = 12.343242;
+    private String Destination_name;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_maps);
-
+        Intent reci = this.getIntent();
+        lt = reci.getDoubleExtra("lati",def);
+        lg = reci.getDoubleExtra("long", def);
+        Destination_name = reci.getStringExtra("name");
+        destination = new LatLng(lt,lg);
         // Attaching the layout to the toolbar object
         toolbar = (Toolbar) findViewById(R.id.tool_bar); // Attaching the layout to the toolbar object
         setSupportActionBar(toolbar);
@@ -176,9 +184,14 @@ public class MapsActivity extends ActionBarActivity implements OnMapReadyCallbac
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
+<<<<<<< HEAD
         mMap.addMarker(new MarkerOptions().position(origin).title("Marker at origin"));
 
         mMap.moveCamera(CameraUpdateFactory.newLatLng(origin));
+=======
+        mMap.addMarker(new MarkerOptions().position(destination).title(Destination_name));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(destination));
+>>>>>>> karandev
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(origin, 13));
         if(ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)!= PackageManager.PERMISSION_GRANTED&&ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION)!=  PackageManager.PERMISSION_GRANTED)
         {

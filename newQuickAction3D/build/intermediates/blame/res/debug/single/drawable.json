@@ -4,6 +4,7 @@
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable/icon.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/debug/drawable/menu_eraser.png",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable/menu_eraser.png"
     },
@@ -50,5 +51,53 @@
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/debug/drawable/menu_info.png",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable/menu_info.png"
+=======
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_selected.9.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\action_item_selected.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_down_arrow.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\menu_down_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_ok.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\menu_ok.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_search.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\menu_search.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_down.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\arrow_down.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_up_arrow.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\menu_up_arrow.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\popup.9.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\popup.9.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_cancel.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\menu_cancel.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_up.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\arrow_up.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_eraser.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\menu_eraser.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_info.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\menu_info.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable\\icon.png"
+>>>>>>> karandev
     }
 ]

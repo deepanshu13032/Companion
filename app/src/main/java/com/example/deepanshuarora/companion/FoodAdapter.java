@@ -1,6 +1,8 @@
 package com.example.deepanshuarora.companion;
 
 import android.content.Context;
+import android.content.Intent;
+import android.graphics.PorterDuff;
 import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -19,10 +21,10 @@ public class FoodAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     //private List<String> cuisines;
     //private Context context;
     LoadFoodData loadFoodData =new LoadFoodData();
-
+    Context context;
 
     public FoodAdapter( Context context) {
-
+        this.context=context;
         inflater = LayoutInflater.from(context);
     }
 
@@ -57,6 +59,19 @@ public class FoodAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
             super(v);
             name=(TextView) v.findViewById(R.id.place_name);
             image =(SimpleDraweeView) v.findViewById(R.id.my_image_view);
+            image.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent i = new Intent(v.getContext(), Details.class);
+                    i.putExtra("name",loadFoodData.data.get(getAdapterPosition()).getName());
+                    i.putExtra("desc",loadFoodData.data.get(getAdapterPosition()).getDesc());
+                    i.putExtra("latitude",loadFoodData.data.get(getAdapterPosition()).getX());
+                    i.putExtra("longitude",loadFoodData.data.get(getAdapterPosition()).getY());
+                    i.putExtra("hashmapimages",loadFoodData.data.get(getAdapterPosition()).getSub_image());
+                    i.putExtra("coverimage",loadFoodData.data.get(getAdapterPosition()).getImgurl());
+                    v.getContext().startActivity(i);
+                }
+            });
         }
     }
 }
