@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\icon.png",
-        "source": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\icon.png"
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/androidTest/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/bundles/debug/res/drawable-ldpi-v4/icon.png"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\icon.png"
     }
 ]
