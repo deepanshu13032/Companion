@@ -1,9 +1,11 @@
 package com.example.deepanshuarora.companion;
 
+import android.content.Intent;
 import android.content.res.Configuration;
 import android.graphics.Color;
 import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -35,6 +37,7 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
     private ViewAnimator viewAnimator;
     private int res = R.drawable.content_music;
     private LinearLayout linearLayout;
+    static FloatingActionButton fab;
 
 
     @Override
@@ -54,7 +57,14 @@ public class MainContainer extends ActionBarActivity implements ViewAnimator.Vie
                 drawerLayout.closeDrawers();
             }
         });
-
+        fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainContainer.this, Add.class);
+                startActivity(i);
+            }
+        });
 
         setActionBar();
         createMenuList();

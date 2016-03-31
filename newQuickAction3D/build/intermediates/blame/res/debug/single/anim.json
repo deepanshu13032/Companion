@@ -4,12 +4,21 @@
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/grow_from_bottom.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/debug/anim/grow_from_bottomleft_to_topright.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/debug/anim/shrink_from_topright_to_bottomleft.xml",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
+=======
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/debug/anim/shrink_from_topright_to_bottomleft.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/debug/anim/grow_from_bottomleft_to_topright.xml",
+        "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
+>>>>>>> aaea1522a91f88cbc21efa2c3a6c39b796fd5210
     },
     {
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/debug/anim/grow_from_topleft_to_bottomright.xml",

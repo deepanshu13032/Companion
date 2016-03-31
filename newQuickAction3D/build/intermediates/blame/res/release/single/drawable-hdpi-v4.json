@@ -1,6 +1,15 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/build/intermediates/res/merged/release/drawable-hdpi-v4/icon.png",
         "source": "/Users/deepanshuarora/AndroidStudioProjects/Companion/newQuickAction3D/src/main/res/drawable-hdpi/icon.png"
+=======
+        "merged": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\Users\\deepanshuarora\\AndroidStudioProjects\\Companion\\newQuickAction3D\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\Companion\\newQuickAction3D\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\Android\\Companion\\newQuickAction3D\\src\\main\\res\\drawable-hdpi\\icon.png"
+>>>>>>> aaea1522a91f88cbc21efa2c3a6c39b796fd5210
     }
 ]
